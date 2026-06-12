@@ -1,10 +1,62 @@
-# 🌟 WT_TEAM
+#  WT_TEAM
 
 **آینده درخشان است**
 
-## پروژه‌ها
-- 🌐 [wtteam.ir](https://wtteam.ir)
-- 🌀 [vortex.wtteam.ir](https://vortex.wtteam.ir)
 
-## تماس
-- ✉️ support@wtteam.ir
+---
+
+## 🚀 پروژه‌ها
+
+### 🌐 سایت اصلی
+- **[wtteam.ir](https://wtteam.ir)** — سایت رسمی تیم
+
+### 🌀 بازی‌ها (VORTEX)
+- **[vortex.wtteam.ir](https://vortex.wtteam.ir)** — بخش بازی‌ها
+- 🎮 **GAME BOMB** — بازی زامبی و بمب (در حال ساخت)
+- 🚔 **POLICE SIDE** — بازی مأموریت پلیسی (در حال ساخت)
+
+### 💬 چت روم
+- **[vibe.wtteam.ir](https://vibe.wtteam.ir)** — چت روم VIBE
+  - 🟢 تیک سبز
+  - 🟦 تیک آبی (لیدربورد)
+  - 🎁 هدیه تیک
+
+### 📱 پیام‌رسان
+- **[vlyx.wtteam.ir](https://vlyx.wtteam.ir)** — پیام‌رسان VLYX
+
+### 🤖 ربات‌ها (CORO)
+- **[coro.wtteam.ir](https://coro.wtteam.ir)** — مجموعه ربات‌های WT
+
+### 📢 تبلیغات
+- **[ads.wtteam.ir](https://ads.wtteam.ir)** — پنل تبلیغات
+
+### 👥 همکاری
+- **[join.wtteam.ir](https://join.wtteam.ir)** — استخدام و همکاری با ما
+
+---
+
+## 📧 تماس
+- ✉️ **پشتیبانی:** support@wtteam.ir
+- ✉️ **همکاری:** hr@wtteam.ir
+
+---
+
+## 📱 شبکه‌های اجتماعی
+- 📱 **تلگرام:** [@realwtteam](https://t.me/realwtteam)
+- 📱 **روبیکا:** [@realwtteam](https://rubika.ir/realwtteam)
+- 📱 **ایتا:** [@wtteam](https://eitaa.com/wtteam)
+- 📱 **بله:** [@wtteam](http://ble.ir/wtteam)
+- 🟢 **ویراستی:** [@wtteam](https://virasty.com/wtteam)
+- 🎥 **یوتیوب:** [@wtteam](https://youtube.com/@wtteam)
+- 🐙 **گیت‌هاب:** [realwtteam](https://github.com/realwtteam)
+
+---
+
+## 🛠️ تکنولوژی‌ها
+- HTML, CSS, JavaScript
+- PHP, Python, Java, Kotlin
+- MySQL, SQLite
+
+---
+
+> **"آینده درخشان است"** 🌟
