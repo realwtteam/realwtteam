@@ -17,9 +17,6 @@
 
 ### 💬 چت روم
 - **[vibe.wtteam.ir](https://vibe.wtteam.ir)** — چت روم VIBE
-  - 🟢 تیک سبز
-  - 🟦 تیک آبی (لیدربورد)
-  - 🎁 هدیه تیک
 
 ### 📱 پیام‌رسان
 - **[vlyx.wtteam.ir](https://vlyx.wtteam.ir)** — پیام‌رسان VLYX
