@@ -47,7 +47,7 @@
 - 🎥 **یوتیوب:** [@wtteam](https://youtube.com/@realwtteam)
 - 🐙 **گیت‌هاب:** [realwtteam](https://github.com/realwtteam)
 - 🐦 **ایکس:** [realwtteam](https://x.com/realwtteam)
-- 🐙 **گیت‌هاب:** [wtteam](https://aparat.com/wtteam)
+- 📹 **آپارات:** [wtteam](https://aparat.com/wtteam)
 ---
 
 ## 🛠️ تکنولوژی‌ها
