@@ -44,9 +44,10 @@
 - 📱 **ایتا:** [@wtteam](https://eitaa.com/wtteam)
 - 📱 **بله:** [@wtteam](http://ble.ir/wtteam)
 - 🟢 **ویراستی:** [@wtteam](https://virasty.com/wtteam)
-- 🎥 **یوتیوب:** [@wtteam](https://youtube.com/@wtteam)
+- 🎥 **یوتیوب:** [@wtteam](https://youtube.com/@realwtteam)
 - 🐙 **گیت‌هاب:** [realwtteam](https://github.com/realwtteam)
-
+- 🐦 **ایکس:** [realwtteam](https://x.com/realwtteam)
+- 🐙 **گیت‌هاب:** [wtteam](https://aparat.com/wtteam)
 ---
 
 ## 🛠️ تکنولوژی‌ها
